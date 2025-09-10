@@ -1,0 +1,7 @@
+pdfplumber
+tqdm
+os
+json
+re
+typing
+logging
