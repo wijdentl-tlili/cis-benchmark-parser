@@ -13,6 +13,7 @@ A Python tool to extract structured control details (Profile, Description, Ratio
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/cis-benchmark-parser.git
+git clone https://github.com/wijdentl-tlili/cis-benchmark-parser.git
 cd cis-benchmark-parser
 pip install -r requirements.txt
+python cis_parser.py <Cis benchmark PDF file> <Output location>
